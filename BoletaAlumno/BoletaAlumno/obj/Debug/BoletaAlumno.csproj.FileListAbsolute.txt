@@ -1,0 +1,12 @@
+c:\users\meny\documents\visual studio 2015\Projects\BoletaAlumno\BoletaAlumno\bin\Debug\BoletaAlumno.exe.config
+C:\Users\Meny\Desktop\BoletaAlumno\BoletaAlumno\bin\Debug\BoletaAlumno.exe.config
+C:\Users\Meny\Desktop\BoletaAlumno\BoletaAlumno\bin\Debug\BoletaAlumno.exe
+C:\Users\Meny\Desktop\BoletaAlumno\BoletaAlumno\bin\Debug\BoletaAlumno.pdb
+C:\Users\Meny\Desktop\BoletaAlumno\BoletaAlumno\obj\Debug\BoletaAlumno.csprojResolveAssemblyReference.cache
+C:\Users\Meny\Desktop\BoletaAlumno\BoletaAlumno\obj\Debug\BoletaAlumno.Form1.resources
+C:\Users\Meny\Desktop\BoletaAlumno\BoletaAlumno\obj\Debug\BoletaAlumno.Properties.Resources.resources
+C:\Users\Meny\Desktop\BoletaAlumno\BoletaAlumno\obj\Debug\BoletaAlumno.csproj.GenerateResource.Cache
+C:\Users\Meny\Desktop\BoletaAlumno\BoletaAlumno\obj\Debug\BoletaAlumno.exe
+C:\Users\Meny\Desktop\BoletaAlumno\BoletaAlumno\obj\Debug\BoletaAlumno.pdb
+C:\Users\Meny\Desktop\BoletaAlumno\BoletaAlumno\obj\Debug\BoletaAlumno.Alumno.resources
+C:\Users\Meny\Desktop\BoletaAlumno\BoletaAlumno\obj\Debug\BoletaAlumno.Materias.resources
