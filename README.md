@@ -1,3 +1,3 @@
 # Boleta_Alumnos
 Sistema de Alumnos creado en C# donde puedo insertar las calificaciones y sacar el promedio, puedo eliminar, modificar, visualizar y buscar alumnos, pero no solo alumnos si no tambien materias.
-Me enfoque mas en que no me tronaran en ingresar.... materias en los text box (Visual Studio 2015 y SQL Manager)
+Me enfoque mas en que no me tronaran en ingresar.... materias en los text box no pueden introducir numero ni signos que no sean letras o texto y pongo mensajes de advertencia o error, cuando voy a buscar una materia lo que hago es seleccionar un check box y se habilita el boton buscar y los demas botones se deshabilitan es todo lo que hace materias. Me falto modificar y buscar alumnos pero los demas botones si funcionana me falto validar algunas cosas en alumnos. En el inicio del programa no hago nada, no inserto calificaciones lo unico que hice fue visualizar el nombre en el combobox.(Visual Studio 2015 y SQL Manager)
